@@ -1,0 +1,1 @@
+starkli deploy 0x0719c7e74f1e001cea673bfbac5b8b14c528919d48045f018d2461a5f6de369c --rpc http://0.0.0.0:5050 --account ~/.starkli-wallets/deployer/account0_account.json --keystore ~/.starkli-wallets/deployer/account0_keystore.json

@@ -1,0 +1,1 @@
+starkli declare ../contract/target/dev/contract_SimpleStorage.sierra.json --rpc http://0.0.0.0:5050 --compiler-version 2.0.1 --account ~/.starkli-wallets/deployer/account0_account.json --keystore ~/.starkli-wallets/deployer/account0_keystore.json
